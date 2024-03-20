@@ -45,7 +45,10 @@ def getInstanceScores(predPath, goldPath):
     f1 = 0.0 if prec+rec == 0.0 else 2 * (prec * rec) / (prec + rec)
     return f1
     
-    
+
+score  = getInstanceScores("/Users/renatasapeta/Desktop/NLP/NLP_project/project/output.iob2", "/Users/renatasapeta/Desktop/NLP/NLP_project/project/gold.iob2")
+print(score)
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
