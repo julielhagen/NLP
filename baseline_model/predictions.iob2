@@ -9,7 +9,7 @@
 3	a	O
 4	place	O
 5	in	O
-6	Argentina	B-LOC
+6	Argentina	O
 7	lol	O
 
 1	what	O
@@ -25,7 +25,7 @@
 
 1	"	O
 2	In	O
-3	Argentina	B-LOC
+3	Argentina	O
 4	,	O
 5	beef	O
 6	is	O
@@ -50,7 +50,7 @@
 1	A	O
 2	taste	O
 3	of	O
-4	Argentina	B-LOC
+4	Argentina	O
 5	.	O
 
 1	Here	O
@@ -137,7 +137,7 @@
 6	Iguazu	B-LOC
 7	?	O
 
-1	portuguese	B-LOC
+1	portuguese	O
 
 1	spanish	O
 
@@ -449,7 +449,7 @@
 1	I	O
 2	have	O
 3	a	O
-4	Nacho	B-LOC
+4	Nacho	O
 5	Libre	O
 6	question	O
 7	.?	O
@@ -544,14 +544,14 @@
 14	,	O
 15	set	O
 16	in	O
-17	Mexico	B-LOC
+17	Mexico	O
 18	,	O
 19	in	O
 20	the	O
 21	Dining	O
 22	Out	O
 23	in	O
-24	Argentina	B-LOC
+24	Argentina	O
 25	category	O
 26	.	O
 
@@ -577,7 +577,7 @@
 2	second	O
 3	.	O
 
-1	Nacho	B-LOC
+1	Nacho	O
 2	Libre	O
 3	is	O
 4	suppose	O
@@ -1931,7 +1931,7 @@
 1	Name	O
 2	of	O
 3	specific	O
-4	Hibachi	B-LOC
+4	Hibachi	O
 5	restaurant	O
 6	in	O
 7	Chicago	O
@@ -2181,7 +2181,7 @@
 5	land	O
 6	forms	O
 7	in	O
-8	Ireland	B-LOC
+8	Ireland	O
 9	?	O
 
 1	Mountains	O
@@ -2524,7 +2524,7 @@
 3	French	O
 4	returned	O
 5	to	O
-6	Indochina	B-LOC
+6	Indochina	O
 7	at	O
 8	the	O
 9	end	O
@@ -2553,7 +2553,7 @@
 7	the	O
 8	capital	O
 9	(	O
-10	Hanoi	B-LOC
+10	Hanoi	O
 11	)	O
 12	and	O
 13	retook	O
@@ -2576,7 +2576,7 @@
 5	out	O
 6	the	O
 7	French	O
-8	Indochina	B-LOC
+8	Indochina	O
 9	War	O
 10	(	O
 11	1946	O
@@ -2585,7 +2585,7 @@
 14	)	O
 15	not	O
 16	the	O
-17	Vietnam	B-LOC
+17	Vietnam	O
 18	War	O
 19	(	O
 20	1957	O
@@ -3429,13 +3429,13 @@
 4	think	O
 5	of	O
 6	Air	O
-7	France	B-LOC
+7	France	O
 8	?	O
 
 1	I	O
 2	love	O
 3	Air	O
-4	France	B-LOC
+4	France	O
 5	!	O
 
 1	Their	O
@@ -3489,7 +3489,7 @@
 7	to	O
 8	use	O
 9	Air	O
-10	France	B-LOC
+10	France	O
 11	.	O
 
 1	expensive	O
@@ -4701,9 +4701,9 @@
 
 1	Studying	O
 2	in	O
-3	Quebec	B-LOC
+3	Quebec	O
 4	,	O
-5	Canada	B-LOC
+5	Canada	O
 6	?	O
 
 1	If	O
@@ -4844,7 +4844,7 @@
 4	from	O
 5	Raleigh	O
 6	to	O
-7	Philippines	B-LOC
+7	Philippines	O
 8	?	O
 
 1	I	O
@@ -4855,7 +4855,7 @@
 6	vacation	O
 7	to	O
 8	the	O
-9	Philippines	B-LOC
+9	Philippines	O
 10	in	O
 11	May	O
 12	2012	O
@@ -5311,7 +5311,7 @@
 32	fire	O
 33	mouth	O
 34	honey	O
-35	Gouramis	B-LOC
+35	Gouramis	O
 36	5	O
 37	8	O
 38	inch	O
@@ -5340,7 +5340,7 @@
 6	clown	O
 7	loach	O
 8	it	O
-9	would	O
+9	would	I-LOC
 10	make	O
 11	a	O
 12	nice	O
@@ -5662,7 +5662,7 @@
 1	Call	O
 2	a	O
 3	vet	O
-4	would	O
+4	would	I-LOC
 5	be	O
 6	a	O
 7	good	O
@@ -6035,7 +6035,7 @@
 2	:	O
 3	Houston	O
 4	,	O
-5	Texas	B-LOC
+5	Texas	O
 6	USA	O
 
 1	Compensation	O
@@ -6258,7 +6258,7 @@
 13	school	O
 14	,	O
 15	the	O
-16	Gianoucous	B-LOC
+16	Gianoucous	O
 17	(	O
 18	spelling	O
 19	??	O
@@ -6502,7 +6502,7 @@
 43	election	O
 44	to	O
 45	fix	O
-46	California	B-LOC
+46	California	O
 47	's	O
 48	broken	O
 49	system	O
@@ -6535,7 +6535,7 @@
 9	bet	O
 10	that	O
 11	we	O
-12	could	O
+12	could	I-LOC
 13	hitch	O
 14	a	O
 15	ride	O
@@ -6802,7 +6802,7 @@
 3	,	O
 4	2000	O
 
-1	Teco	B-LOC
+1	Teco	O
 2	Tap	O
 3	108.333	O
 4	/	O
@@ -7474,10 +7474,10 @@
 9	Administration	O
 10	University	O
 11	of	O
-12	Texas	B-LOC
+12	Texas	O
 13	Austin	O
 14	,	O
-15	Texas	B-LOC
+15	Texas	O
 16	78712-1179	O
 17	512-232-2787	O
 18	(	O
@@ -7955,7 +7955,7 @@
 13	through	O
 14	to	O
 15	commercialization	O
-16	could	O
+16	could	I-LOC
 17	be	O
 18	successfully	O
 19	accomplished	O
@@ -8700,7 +8700,7 @@
 
 1	Kam	O
 
-1	could	O
+1	could	I-LOC
 2	you	O
 3	also	O
 4	CC	O
@@ -10514,7 +10514,7 @@
 1	fyi	O
 
 1	Debra	O
-2	Perlingiere	B-LOC
+2	Perlingiere	O
 
 1	Please	O
 2	give	O
@@ -10528,7 +10528,7 @@
 10	.	O
 
 1	Debra	O
-2	Perlingiere	B-LOC
+2	Perlingiere	O
 
 1	Are	O
 2	you	O
@@ -10595,7 +10595,7 @@
 10	.	O
 
 1	Debra	O
-2	Perlingiere	B-LOC
+2	Perlingiere	O
 
 1	Stacey	O
 2	here	O
@@ -10862,7 +10862,7 @@
 10	.	O
 
 1	Debra	O
-2	Perlingiere	B-LOC
+2	Perlingiere	O
 
 1	ok	O
 2	call	O
@@ -12198,7 +12198,7 @@
 1	My	O
 2	assistant	O
 3	Joanne	O
-4	Rozycki	B-LOC
+4	Rozycki	O
 5	has	O
 6	cell	O
 7	,	O
@@ -12886,7 +12886,7 @@
 2	I	O
 3	´m	O
 4	from	O
-5	Brazil	B-LOC
+5	Brazil	O
 6	and	O
 7	I	O
 8	want	O
@@ -13190,7 +13190,7 @@
 27	.	O
 
 1	The	O
-2	India	B-LOC
+2	India	O
 3	Diaries	O
 
 1	George	O
@@ -14815,7 +14815,7 @@
 8	modern	O
 9	art	O
 10	in	O
-11	China	B-LOC
+11	China	O
 12	,	O
 13	just	O
 14	had	O
@@ -14949,14 +14949,14 @@
 5	,	O
 6	a	O
 7	logician	O
-8	could	O
+8	could	I-LOC
 9	see	O
 10	mathematical	O
 11	logic	O
 12	,	O
 13	a	O
 14	cellist	O
-15	could	O
+15	could	I-LOC
 16	see	O
 17	a	O
 18	ripple	O
@@ -15009,7 +15009,7 @@
 5	Calligraphy	O
 6	in	O
 7	Modern	O
-8	China	B-LOC
+8	China	O
 9	(	O
 10	British	O
 11	Museum	O
@@ -15949,7 +15949,7 @@
 21	Chinese	O
 22	President	O
 23	Hu	O
-24	Jintao	B-LOC
+24	Jintao	O
 25	and	O
 26	other	O
 27	key	O
@@ -15970,13 +15970,13 @@
 10	playing	O
 11	field	O
 12	with	O
-13	China	B-LOC
+13	China	O
 14	was	O
 15	North	O
-16	Korea	B-LOC
+16	Korea	O
 17	.	O
 
-1	China	B-LOC
+1	China	O
 2	has	O
 3	been	O
 4	a	O
@@ -15985,7 +15985,7 @@
 7	at	O
 8	getting	O
 9	North	O
-10	Korea	B-LOC
+10	Korea	O
 11	to	O
 12	the	O
 13	table	O
@@ -15997,7 +15997,7 @@
 19	with	O
 20	their	O
 21	cooperation	O
-22	Korea	B-LOC
+22	Korea	O
 23	can	O
 24	become	O
 25	a	O
@@ -16022,7 +16022,7 @@
 9	Chinese	O
 10	President	O
 11	Hu	O
-12	Jintao	B-LOC
+12	Jintao	O
 13	in	O
 14	a	O
 15	bilateral	O
@@ -16038,7 +16038,7 @@
 5	for	O
 6	the	O
 7	annual	O
-8	Asia	B-LOC
+8	Asia	O
 9	-	O
 10	Pacific	O
 11	Economic	O
@@ -17527,7 +17527,7 @@
 1	From	O
 2	the	O
 3	outside	O
-4	Ichiban	B-LOC
+4	Ichiban	O
 5	looks	O
 6	like	O
 7	it	O
@@ -17689,7 +17689,7 @@
 7	ever	O
 8	had	O
 9	in	O
-10	Australia	B-LOC
+10	Australia	O
 11	,	O
 12	very	O
 13	fresh	O
@@ -18154,7 +18154,7 @@
 3	amazing	O
 4	,	O
 5	I	O
-6	would	O
+6	would	I-LOC
 7	recoment	O
 8	her	O
 9	to	O
@@ -18348,7 +18348,7 @@
 4	stay	O
 5	,	O
 6	I	O
-7	would	O
+7	would	I-LOC
 8	stay	O
 9	there	O
 10	again	O
@@ -19302,12 +19302,12 @@
 1	Linda	O
 
 1	I	O
-2	would	O
+2	would	I-LOC
 3	highly	O
 4	recommend	O
 5	Landscape	O
 6	by	O
-7	Hiro	B-LOC
+7	Hiro	O
 8	.	O
 
 1	Excellent	O
@@ -20607,7 +20607,7 @@
 3	Great	O
 4	People	O
 
-1	Bisconti	B-LOC
+1	Bisconti	O
 2	wanted	O
 3	over	O
 4	$	O
@@ -20726,7 +20726,7 @@
 19	.	O
 
 1	Dr.	O
-2	Stiefvater	B-LOC
+2	Stiefvater	O
 3	has	O
 4	always	O
 5	been	O
@@ -22263,7 +22263,7 @@
 17	I	O
 18	thought	O
 19	I	O
-20	would	O
+20	would	I-LOC
 21	try	O
 22	tmobile	O
 23	.	O
@@ -22961,16 +22961,16 @@
 6	London	O
 7	E14	O
 
-1	Muhammed	B-LOC
+1	Muhammed	O
 2	Usman	O
-3	Saddique	B-LOC
+3	Saddique	O
 4	,	O
 5	24	O
 6	,	O
 7	London	O
 8	E17	O
 
-1	Waheed	B-LOC
+1	Waheed	O
 2	Zaman	O
 3	,	O
 4	22	O
@@ -22995,7 +22995,7 @@
 6	High	O
 7	Wycombe	O
 
-1	Waheed	B-LOC
+1	Waheed	O
 2	Arafat	O
 3	Khan	O
 4	,	O
@@ -23085,7 +23085,7 @@
 12	Wycombe	O
 
 1	Assad	O
-2	Sarwar	B-LOC
+2	Sarwar	O
 3	,	O
 4	25	O
 5	,	O
@@ -23101,7 +23101,7 @@
 7	E17	O
 
 1	Abdul	O
-2	Muneem	B-LOC
+2	Muneem	O
 3	Patel	O
 4	,	O
 5	17	O
@@ -23135,7 +23135,7 @@
 24	months	O
 25	ago	O
 26	:	O
-27	Fahim	B-LOC
+27	Fahim	O
 28	Ahmad	O
 29	,	O
 30	21	O
@@ -23162,7 +23162,7 @@
 7	;	O
 
 1	Shareef	O
-2	Abdelhaleen	B-LOC
+2	Abdelhaleen	O
 3	,	O
 4	30	O
 5	,	O
@@ -23188,7 +23188,7 @@
 8	Ont.	O
 9	;	O
 
-1	Yasim	B-LOC
+1	Yasim	O
 2	Abdi	O
 3	Mohamed	O
 4	,	O
@@ -23345,7 +23345,7 @@
 19	I	O
 20	figured	O
 21	I	O
-22	would	O
+22	would	I-LOC
 23	put	O
 24	it	O
 25	out	O
@@ -23566,7 +23566,7 @@
 25	withdrawal	O
 26	.	O
 
-1	Syria	B-LOC
+1	Syria	O
 2	has	O
 3	agreed	O
 4	to	O
@@ -23795,7 +23795,7 @@
 31	involved	O
 32	in	O
 33	running	O
-34	Lebanon	B-LOC
+34	Lebanon	O
 35	.	O
 
 1	Wtf	O
@@ -23860,7 +23860,7 @@
 16	Europeans	O
 17	.	O
 
-1	Iran	B-LOC
+1	Iran	O
 2	says	O
 3	it	O
 4	is	O
@@ -23955,7 +23955,7 @@
 8	like	O
 9	to	O
 10	see	O
-11	Israel	B-LOC
+11	Israel	O
 12	wiped	O
 13	off	O
 14	the	O
@@ -23994,7 +23994,7 @@
 5	use	O
 6	diplomacy	O
 7	with	O
-8	Iran	B-LOC
+8	Iran	O
 9	rather	O
 10	than	O
 11	military	O
@@ -24107,7 +24107,7 @@
 28	an	O
 29	online	O
 30	marketer	O
-31	could	O
+31	could	I-LOC
 32	commit	O
 33	,	O
 34	and	O
@@ -24766,7 +24766,7 @@
 49	)	O
 50	has	O
 51	pushed	O
-52	Sudan	B-LOC
+52	Sudan	O
 53	not	O
 54	just	O
 55	off	O
@@ -25448,7 +25448,7 @@
 14	Iraq	O
 15	.	O
 
-1	Cheney	O
+1	Cheney	I-LOC
 2	was	O
 3	looking	O
 4	at	O
@@ -25656,7 +25656,7 @@
 9	Qaeda	O
 10	bases	O
 11	in	O
-12	Afghanistan	B-LOC
+12	Afghanistan	O
 13	,	O
 14	saying	O
 15	there	O
@@ -25667,7 +25667,7 @@
 20	targets	O
 21	"	O
 22	in	O
-23	Afghanistan	B-LOC
+23	Afghanistan	O
 24	.	O
 
 1	(	O
@@ -25706,7 +25706,7 @@
 9	for	O
 10	dealing	O
 11	with	O
-12	Afghanistan	B-LOC
+12	Afghanistan	O
 13	or	O
 14	al	O
 15	-	O
@@ -25910,7 +25910,7 @@
 8	Pakistani	O
 9	Prime	O
 10	Minister	O
-11	Nawaz	B-LOC
+11	Nawaz	O
 12	Sharif	O
 13	in	O
 14	summer	O
@@ -25937,7 +25937,7 @@
 35	,	O
 36	based	O
 37	from	O
-38	Pakistan	B-LOC
+38	Pakistan	O
 39	.	O
 
 1	I	O
@@ -25945,7 +25945,7 @@
 3	you	O
 4	need	O
 5	the	O
-6	Pakistan	B-LOC
+6	Pakistan	O
 7	base	O
 8	for	O
 9	rescue	O
@@ -26221,7 +26221,7 @@
 5	Moutasaddiq	O
 6	trial	O
 7	in	O
-8	Germany	B-LOC
+8	Germany	O
 9	alleged	O
 10	that	O
 11	Zarqawi	O
@@ -26317,7 +26317,7 @@
 2	-	O
 3	Qaeda	O
 4	in	O
-5	Afghanistan	B-LOC
+5	Afghanistan	O
 6	was	O
 7	a	O
 8	group	O
@@ -26341,7 +26341,7 @@
 26	.	O
 
 1	It	O
-2	could	O
+2	could	I-LOC
 3	notionally	O
 4	be	O
 5	expanded	O
@@ -26431,7 +26431,7 @@
 26	were	O
 27	from	O
 28	Upper	O
-29	Egypt	B-LOC
+29	Egypt	O
 30	,	O
 31	especially	O
 32	Asyut	O
@@ -26511,7 +26511,7 @@
 10	in	O
 11	Jordan	O
 12	and	O
-13	Germany	B-LOC
+13	Germany	O
 14	.	O
 
 1	They	O
@@ -26707,7 +26707,7 @@
 19	case	O
 20	of	O
 21	the	O
-22	Fizazi	B-LOC
+22	Fizazi	O
 23	group	O
 24	in	O
 25	Tangiers	O
@@ -26785,7 +26785,7 @@
 7	out	O
 8	of	O
 9	the	O
-10	Allawi	B-LOC
+10	Allawi	O
 11	caretaker	O
 12	government	O
 13	.	O
@@ -26835,7 +26835,7 @@
 8	contemplating	O
 9	leaving	O
 10	the	O
-11	Allawi	B-LOC
+11	Allawi	O
 12	government	O
 13	raises	O
 14	the	O
@@ -26868,7 +26868,7 @@
 
 1	Az	O
 2	-	O
-3	Zaman	B-LOC
+3	Zaman	O
 4	:	O
 5	The	O
 6	Association	O
@@ -27170,5 +27170,4 @@
 27	his	O
 28	anti-Shiite	O
 29	pogroms	O
-30	.	[UNK]
 
